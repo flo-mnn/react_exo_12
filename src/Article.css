@@ -1,0 +1,25 @@
+.article {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 100px 7%;
+}
+
+.img {
+    flex: 1;
+}
+
+img {
+    width: 100%;
+}
+.article-content {
+    flex: 2;
+    padding: 5%;
+    text-align: justify;
+}
+
+h3 {
+    color: #AFAFB1;
+    text-decoration: underline;
+    font-family: cursive;
+}
